@@ -1,0 +1,69 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+13
+'Bienvenidos'
+6
+2
+5
+produ
+1
+0
+3
+ven
+1
+0
+9
+1
+11
+ven < 20000
+5
+1
+5
+valor
+6
+2
+5
+produ
+9
+produ + 1
+3
+ven
+10
+vent + ven
+11
+7
+0
+1
+8
+produ >5
+4
+1
+32
+'tiened que pagar completo', ven
+13
+4
+1
+33
+'se le hara un descuento del 20%'
+6
+2
+9
+descuento
+9
+ven * 0.2
+5
+total
+13
+ven-descuento
+4
+1
+5
+total
+13
+1
