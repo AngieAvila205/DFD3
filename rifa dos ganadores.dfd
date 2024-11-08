@@ -1,0 +1,91 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'escriba el numero de la rifa'
+6
+3
+3
+ga1
+1
+4
+3
+ga2
+1
+9
+6
+dinero
+1
+0
+6
+2
+7
+partici
+1
+0
+7
+ganador
+1
+0
+9
+1
+11
+ganador  <2
+4
+1
+19
+'indique su numero'
+5
+1
+6
+numero
+4
+1
+19
+'indique el aporte'
+5
+1
+6
+aporto
+7
+0
+1
+25
+numero= ga1 or numero=ga2
+4
+1
+30
+'buena suerte para la proxima'
+13
+4
+1
+24
+'felicidades haz ganado'
+6
+1
+7
+ganador
+11
+ganador + 1
+13
+6
+2
+6
+dinero
+15
+dinero + aporte
+7
+partici
+11
+partici + 1
+11
+4
+1
+82
+'total de participantes fue de', partici,   'el total de dinero fue de', dinero   
+1

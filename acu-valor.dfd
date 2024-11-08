@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+34
+'dime angie el valor de la compra'
+6
+1
+3
+acu
+7
+1500000
+9
+1
+6
+acu >0
+5
+1
+5
+valor
+6
+1
+3
+acu
+11
+acu - valor
+7
+0
+1
+12
+valor <= acu
+4
+1
+27
+'saldo insuficiente', valor
+13
+6
+1
+3
+acu
+11
+acu - valor
+4
+1
+43
+'tu compra fue exitosa tu saldo es de', acu
+13
+11
+1

@@ -1,0 +1,106 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+119
+'opc 1 si quieres recargar su cuenta bancaria, 2 si quieres retirar plata, 3 si quiere ver su saldo, 4 si quiere salir'
+6
+2
+3
+opc
+1
+0
+5
+valor
+1
+0
+9
+1
+8
+opc != 4
+5
+1
+3
+opc
+7
+0
+1
+7
+opc = 1
+7
+0
+1
+7
+opc = 2
+7
+0
+1
+7
+opc = 3
+13
+4
+1
+36
+'aqui esta tu saldo en total', valor
+13
+13
+4
+1
+29
+'dime cuanto quieres retirar'
+5
+1
+6
+retiro
+7
+0
+1
+14
+retiro<= valor
+4
+1
+28
+'saldo insuficiente', valor 
+13
+4
+1
+16
+'retiro exitosa'
+6
+1
+5
+valor
+14
+valor - retiro
+4
+1
+5
+valor
+13
+13
+13
+4
+1
+46
+'cuanto deseas recargar en tu cuenta bancaria'
+5
+1
+7
+recarga
+6
+1
+5
+valor
+15
+valor + recarga
+4
+1
+5
+valor
+13
+11
+1

@@ -1,0 +1,106 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+13
+'Bienvenidos'
+6
+2
+4
+nata
+1
+0
+5
+pedro
+1
+0
+9
+1
+29
+nata<1000000 or pedro<1000000
+4
+1
+46
+'Vaca, opcion 1 Natalia o opcion 2 para Pedro'
+5
+1
+3
+opc
+7
+0
+1
+7
+opc = 1
+7
+1
+1
+7
+opc = 2
+13
+7
+1
+1
+15
+pedro > 1000000
+4
+1
+27
+'No se puede abonar', pedro
+13
+4
+1
+33
+'cuanto le deseas abonar a Pedro'
+5
+1
+5
+valor
+6
+1
+5
+pedro
+13
+pedro + valor
+4
+1
+22
+'abono exitoso', pedro
+13
+13
+13
+7
+1
+1
+13
+nata> 1000000
+4
+1
+26
+'No se puede abonar', nata
+13
+4
+1
+32
+'cuanto deseas abonar a Natalia'
+5
+1
+5
+valor
+6
+1
+4
+nata
+12
+nata + valor
+4
+1
+22
+'abono exitoso', valor
+13
+13
+11
+1

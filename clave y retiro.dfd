@@ -1,0 +1,58 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+5
+saldo
+7
+1000000
+5
+clave
+4
+8522
+4
+1
+37
+'por favor digita la clave de retiro'
+9
+1
+13
+saldo >100000
+5
+1
+9
+valor, cl
+7
+0
+1
+10
+cl = clave
+4
+1
+18
+'clave incorrecta'
+13
+7
+0
+1
+13
+valor > saldo
+6
+1
+5
+saldo
+12
+saldo- valor
+13
+4
+1
+20
+'saldo insuficiente'
+13
+13
+11
+1
