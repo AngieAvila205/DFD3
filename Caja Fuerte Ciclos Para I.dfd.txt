@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+5
+clave
+4
+3424
+8
+1
+1
+i
+1
+1
+1
+1
+1
+3
+1
+1
+1
+4
+1
+17
+'digite su clave'
+5
+1
+1
+c
+7
+0
+1
+7
+c=clave
+4
+1
+18
+'clave incorrecta'
+13
+4
+1
+22
+'accediste a tu calve'
+6
+1
+1
+i
+2
+10
+13
+7
+0
+1
+3
+i=3
+13
+4
+1
+30
+'demasiados intentos fallidos'
+13
+10
+1
